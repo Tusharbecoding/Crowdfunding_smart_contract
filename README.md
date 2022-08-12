@@ -6,8 +6,6 @@ For a good overview and starting point, please check out the official [Solidity 
 
 ## Table of Contents
 
-- [Crowdfunding_smart_contract](#crowdfunding_smart_contract)
-  - [Table of Contents](#table-of-contents)
   - [Background](#background)
   - [Example](#example)
   - [Documentation](#documentation)
