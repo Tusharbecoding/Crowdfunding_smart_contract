@@ -1,5 +1,7 @@
 # Crowdfunding_smart_contract
 
+Crowdfunding is the use of small amounts of capital from a large number of individuals to finance a new business venture. Depending on the type of crowdfunding, investors either donate money altruistically or get rewards such as equity in the company that raised the money.
+
 Solidity is a statically typed, contract-oriented, high-level language for implementing smart contracts on the Ethereum platform.
 
 For a good overview and starting point, please check out the official [Solidity Language Portal](https://soliditylang.org).
